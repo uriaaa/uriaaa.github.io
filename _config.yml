@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "ko-KR" #"en-US"
 site_theme               : "minimal-mistakes-jekyll"
-title                    : "Your Name / Site Title"
+title                    : "NaKyung Kang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "NaKyung Kang"
+description              : &description "포트폴리오"
 url                      : "https://uriaaa.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
