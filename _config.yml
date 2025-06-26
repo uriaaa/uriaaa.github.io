@@ -51,7 +51,7 @@ author:
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   #facebook         : # Username
   #flickr           : # Username
   #foursquare       : # Username
@@ -75,7 +75,7 @@ author:
   #xing             : # Username
   #youtube          : # Username
   #zhihu            : # Username
-  artstation       : "yuria"
+  artstation       : "https://www.artstation.com/yuriak"
 
 # Publication Category - The following the list of publication categories and their headings
 #publication_category:
@@ -161,6 +161,10 @@ include:
   - _pages
   - files
 exclude:
+  - _publications
+  - _talks
+  - _teachings
+  - _CV
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
