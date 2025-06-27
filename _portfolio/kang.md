@@ -52,12 +52,14 @@ author_profile: true
   <dr>
 </div>
 
+
 <div style="text-align: center; font-size:14px; margin-top: 10px;">
   <a href="https://www.artstation.com/artwork/XJJoa3" target="_blank">
     추가 이미지는 이 링크에서 확인 가능합니다
   </a>
   <dr>
 </div>
+
 
 <div style="text-align: center;">
   <a href="/images/portfolio/Sprite-0001.gif" target="_blank">
