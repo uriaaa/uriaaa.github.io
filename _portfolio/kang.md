@@ -39,8 +39,9 @@ author_profile: true
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <!-- 왼쪽 이미지 -->
+  <a href="/images/portfolio/Sprite-0001.gif" target="_blank">
   <img src="/images/portfolio/4109015e-63ba-4a6d-9fa1-f54743cf8128.png" alt="달의 기억" style="width: 200px; border-radius: 4px;">
-
+</a>
   <!-- 오른쪽 설명 -->
   <div style="font-size: 14px; line-height: 1.6;">
     <p><strong>개발:</strong> Unity</p>
@@ -88,7 +89,8 @@ author_profile: true
   allowfullscreen>
 </iframe>
 
-### 2. Colorfly
+<h3>2. Colorfly</h3>
+
 
 ![logo2300.png](/images/portfolio/logo2300.png)
 
