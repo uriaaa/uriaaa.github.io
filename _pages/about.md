@@ -17,12 +17,12 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806</small>
 
 <h2>Education</h2>
 
-<font size="3"><p style="font-weight:normal">2018.02 ~ 2023.02   건국대학교 건축학부 전공</font><br>
+<font size="3"><p style="font-weight:normal">2018.02 ~ 2023.02   건국대학교 건축학부 전공<br>
 
 <h2>Experience<h2>
 
 <font size="3"><p style="font-weight:normal">2018.04 ~ 2018.02   건국대학교 건축대학 학생회, "청춘"<br>
-<font size="3"><p style="font-weight:normal">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;디자인국원<br>
+<font size="3"><p style="font-weight:normal">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;디자인국원<br>
 
 * Fall 2015: Research Assistant
   * GitHub University
