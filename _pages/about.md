@@ -6,14 +6,7 @@ author_profile: true
 
 <img src='/images/2.png'>
 
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - resume
----
+<h2>RESUME</h2>
 
 {% include base_path %}
 
