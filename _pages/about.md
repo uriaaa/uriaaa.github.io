@@ -52,7 +52,7 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
 <h2>Skills</h2>
 * Aseprite&emsp;&emsp;&emsp;⬤ ⬤ ⬤ ⬤ ⬤<br>
 <br>  
-* Photoshop&emsp;&emsp;;⬤ ⬤ ⬤ ⬤ ⬤<br>
+* Photoshop&emsp;&emsp;⬤ ⬤ ⬤ ⬤ ⬤<br>
 <br>  
 * Illustration&emsp;&emsp;⬤ ⬤ ⬤ ⬤ ◯<br>  
 <br>  
