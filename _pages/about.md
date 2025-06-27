@@ -10,7 +10,7 @@ author_profile: true
 
 <h2>Education</h2>
 
-2018.02 ~ 2023.02 건국대학교 건축학부 전공
+<small>2018.02 ~ 2023.02 건국대학교 건축학부 전공<small>
 
 <h2>Work experience<h2>
 ======
