@@ -50,12 +50,12 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
 
 
 <h2>Skills</h2>
-* Aseprite&emsp;&emsp;&emsp;⬤ ⬤ ⬤ ⬤ ⬤<br>
+* Aseprite&emsp;&emsp;&emsp;&nbsp;&nbsp;⬤ ⬤ ⬤ ⬤ ⬤<br>
 <br>  
-* Photoshop&emsp;&emsp;⬤ ⬤ ⬤ ⬤ ⬤<br>
+* Photoshop&emsp;&emsp;&nbsp;⬤ ⬤ ⬤ ⬤ ⬤<br>
 <br>  
-* Illustration&emsp;&emsp;⬤ ⬤ ⬤ ⬤ ◯<br>  
+* Illustrator&emsp;&emsp;⬤ ⬤ ⬤ ⬤ ◯<br>  
 <br>  
-* Indesign&emsp;&emsp;&emsp;⬤ ⬤ ⬤ ◯ ◯<br>  
+* Indesign&emsp;&emsp;&emsp;&nbsp;&nbsp;⬤ ⬤ ⬤ ◯ ◯<br>  
 <br>  
 
