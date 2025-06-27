@@ -9,9 +9,9 @@ author_profile: true
 <h1>RESUME</h1>
 
   
-<font size="2">Name.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;강나경  
-Birth.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1999.12.09  
-Email.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yuriak1209@gmail.com  
+<font size="2">Name.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;강나경<br>  
+Birth.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1999.12.09<br>  
+Email.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yuriak1209@gmail.com<br>  
 Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
 
 
