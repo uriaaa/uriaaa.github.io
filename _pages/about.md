@@ -39,10 +39,15 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
 
   
 <h2>Skills</h2>
-* Aseprite<br>  
-* Photoshop<br>  
+* Aseprite<br>
+<br>  
+* Photoshop<br>
+<br>  
 * Illustration<br>  
+<br>  
 * Indesign<br>  
+<br>  
+
 
 <h2>Publications</h2>
 ======
