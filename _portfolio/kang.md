@@ -29,7 +29,6 @@ author_profile: true
   </div>
 </div>
 
-![달의기억.png](/images/portfolio/4109015e-63ba-4a6d-9fa1-f54743cf8128.png)
 
 https://www.artstation.com/artwork/XJJoa3
 
