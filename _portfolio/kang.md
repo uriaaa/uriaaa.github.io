@@ -58,9 +58,12 @@ author_profile: true
 </div>
 
 <div style="text-align: center;">
+  <a href="/images/portfolio/Sprite-0001.gif" target="_blank">
   <img src="/images/portfolio/Sprite-0001.gif" alt="Sprite" style="height: auto;">
   <br>
   <img src="/images/portfolio/%EC%88%B23.png" alt="숲3.png" style="height: auto;">
+  <br>
+  </a>
 </div>
   
 <div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
