@@ -5,12 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-.center-image {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-}
+
 
 # Career
 
@@ -35,8 +30,7 @@ author_profile: true
   </a>
 </p>
 
-
-![Sprite-0001.gif](/images/portfolio/Sprite-0001.gif)
+<img src="//images/portfolio/Sprite-0001.gif" class="center-image" alt="Sprite-0001.gif">
 
 ![숲3.png](/images/portfolio/%EC%88%B23.png)
 
