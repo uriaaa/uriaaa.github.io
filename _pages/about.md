@@ -4,4 +4,4 @@ title: "PROFILE"
 author_profile: true
 ---
 
-"2.png"
+<b/r><img src='/images/500x300.png>
