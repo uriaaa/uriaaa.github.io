@@ -59,23 +59,22 @@ author_profile: true
 <div style="text-align: center;">
   <img src="/images/portfolio/Sprite-0001.gif" alt="Sprite" style="max-width: 100%; height: auto;">
   <br>
+  <img src="/images/portfolio/%EC%88%B23.png" alt="숲3.png" style="max-width: 100%; height: auto;">
+  <br>  
+  <img src="/images/portfolio/%EC%8B%A0%EC%82%AC2.png" alt="신사2.png" style="max-width: 100%; height: auto;">
+  <br> 
+  <img src="/images/portfolio/%EB%B6%88%ED%83%80%EB%8A%94-%ED%8F%90%EC%8B%A0%EC%82%AC.gif" alt="불타는-폐신사.gif" style="max-width: 100%; height: auto;">
+  <br> 
+  <img src="/images/portfolio/%EC%A0%80%ED%83%9D%EC%99%B8%EB%B6%804.png" alt="저택외부4.png" style="max-width: 100%; height: auto;">
+  <br> 
+  <img src="/images/portfolio/1f-%EB%8A%98%EB%A6%BC2.png" alt="1f-늘림2.png" style="max-width: 100%; height: auto;">
+  <br> 
+  <img src="/images/portfolio/2f-%EB%8A%98%EB%A6%BC.png" alt="2f-늘림.png" style="max-width: 100%; height: auto;">
+  <br> 
+  <img src="/images/portfolio/%EA%B5%90%EC%8B%A4%EC%88%98%EC%A0%95.png" alt="교실수정.png" style="max-width: 100%; height: auto;">
+  <br> 
+  <img src="/images/portfolio/%EC%9C%A0%EC%9A%B0%EC%A7%80_%EC%A7%91ver1.png" alt="유우지 집ver1.png" style="max-width: 100%; height: auto;">
 </div>
-
-![숲3.png](/images/portfolio/%EC%88%B23.png)
-
-![신사2.png](/images/portfolio/%EC%8B%A0%EC%82%AC2.png)
-
-![불타는-폐신사.gif](/images/portfolio/%EB%B6%88%ED%83%80%EB%8A%94-%ED%8F%90%EC%8B%A0%EC%82%AC.gif)
-
-![저택외부4.png](/images/portfolio/%EC%A0%80%ED%83%9D%EC%99%B8%EB%B6%804.png)
-
-![1f-늘림2.png](/images/portfolio/1f-%EB%8A%98%EB%A6%BC2.png)
-
-![2f-늘림.png](/images/portfolio/2f-%EB%8A%98%EB%A6%BC.png)
-
-![교실수정.png](/images/portfolio/%EA%B5%90%EC%8B%A4%EC%88%98%EC%A0%95.png)
-
-![유우지 집ver1.png](/images/portfolio/%EC%9C%A0%EC%9A%B0%EC%A7%80_%EC%A7%91ver1.png)
 
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/VRJcguli5YE"
