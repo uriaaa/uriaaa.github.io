@@ -10,7 +10,7 @@ author_profile: true
 
   
 <font size="2">Name.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;강나경  
-Birth.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1999.12.09  
+Birth.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1999.12.09  
 Email.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yuriak1209@gmail.com  
 Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
 
