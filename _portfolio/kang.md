@@ -39,9 +39,7 @@ author_profile: true
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <!-- 왼쪽 이미지 -->
-  <a href="/images/portfolio/Sprite-0001.gif" target="_blank">
     <img src="/images/portfolio/4109015e-63ba-4a6d-9fa1-f54743cf8128.png" alt="달의 기억" style="width: 200px; border-radius: 4px;">
-  </a>
   <!-- 오른쪽 설명 -->
   <div style="font-size: 14px; line-height: 1.6;">
     <p><strong>개발:</strong> Unity</p>
@@ -57,7 +55,6 @@ author_profile: true
   <a href="https://www.artstation.com/artwork/XJJoa3" target="_blank">
     추가 이미지는 이 링크에서 확인 가능합니다
   </a>
-  <dr>
 </div>
 
 
@@ -67,7 +64,6 @@ author_profile: true
   <br>
   <img src="/images/portfolio/%EC%88%B23.png" alt="숲3.png" style="height: auto;">
   <br>
-  </a>
 </div>
   
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
