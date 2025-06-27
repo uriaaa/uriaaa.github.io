@@ -5,8 +5,14 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+<h2>INDEX</h2>
+<font size="3">Name.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;강나경<br>  
+Birth.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1999.12.09<br>  
+Email.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yuriak1209@gmail.com<br>  
+Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
+<br>
 
-
+  
 # Career
 
 ### 1. 달의 기억
