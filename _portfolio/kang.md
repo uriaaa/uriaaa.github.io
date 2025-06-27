@@ -29,8 +29,12 @@ author_profile: true
   </div>
 </div>
 
+<p>
+  <a href="https://www.artstation.com/artwork/XJJoa3" target="_blank">
+    추가 이미지는 이 링크에서 확인 가능합니다
+  </a>
+</p>
 
-https://www.artstation.com/artwork/XJJoa3
 
 ![Sprite-0001.gif](/images/portfolio/Sprite-0001.gif)
 
@@ -51,7 +55,7 @@ https://www.artstation.com/artwork/XJJoa3
 ![유우지 집ver1.png](/images/portfolio/%EC%9C%A0%EC%9A%B0%EC%A7%80_%EC%A7%91ver1.png)
 
 <iframe width="560" height="315"
-  src="https://www.youtube.com/watch?v=VRJcguli5YE&feature=youtu.be](https://www.youtube.com/watch?v=VRJcguli5YE&feature=youtu.be"
+  src="https://www.youtube.com/embed/VRJcguli5YE"
   title="YouTube video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
