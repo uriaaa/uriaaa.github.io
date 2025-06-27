@@ -31,16 +31,6 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806</small>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;Rheinmain University, 교환학생<br>  
 
 2022.03 ~ 2024.04   신한건축사사무소, 사원<br>  
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 <h2>Skills<h2>
 * Skill 1
