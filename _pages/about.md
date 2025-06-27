@@ -22,7 +22,7 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
 <br>
 
 
-<h2>Experience<h2>
+<h2>Experience</h2>
 
   
 <font size="2"><p style="font-weight:normal;">2018.04 ~ 2019.02&emsp;&emsp;건국대학교 건축대학 학생회, "청춘"<br>
@@ -36,7 +36,7 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
 <br>
 <font size="2">2022.03 ~ 2024.04&emsp;&emsp;신한건축사사무소, 사원<br>  
   
-<h2>Skills<h2>
+<h2>Skills</h2>
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
