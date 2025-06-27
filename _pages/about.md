@@ -37,25 +37,25 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
 <font size="3">2022.03 ~ 2024.04&emsp;&emsp;신한건축사사무소, 사원<br>  
 <br>
 
-  
-<h2>Skills</h2>
-* Aseprite<br>
-<br>  
-* Photoshop<br>
-<br>  
-* Illustration<br>  
-<br>  
-* Indesign<br>  
-<br>  
-
 
 <h2>Certificate</h2>
-<font size="3"><p style="font-weight:normal;">2020.08&emsp;&emsp;&emsp;&emsp;2종 보통 운전면허<br>
+<font size="3"><p style="font-weight:normal;">2020.08&emsp;&emsp;&emsp;2종 보통 운전면허<br>
 <br>  
-<font size="3"><p style="font-weight:normal;">2021.08&emsp;&emsp;&emsp;&emsp;실내건축기사<br>
+<font size="3"><p style="font-weight:normal;">2021.08&emsp;&emsp;&emsp;실내건축기사<br>
 <br>  
-<font size="3"><p style="font-weight:normal;">2024.09&emsp;&emsp;&emsp;&emsp;TOEIC Speaking IH<br>
+<font size="3"><p style="font-weight:normal;">2024.09&emsp;&emsp;&emsp;TOEIC Speaking IH<br>
 <br>  
-<font size="3"><p style="font-weight:normal;">2024.10&emsp;&emsp;&emsp;&emsp;TOEIC 925<br>
+<font size="3"><p style="font-weight:normal;">2024.10&emsp;&emsp;&emsp;TOEIC 925<br>
+<br>  
+
+
+<h2>Skills</h2>
+* Aseprite&emsp;&emsp;&emsp;‧‧‧‧‧<br>
+<br>  
+* Photoshop&emsp;&emsp;&emsp;‧‧‧‧‧<br>
+<br>  
+* Illustration&emsp;&emsp;&emsp;‧‧‧‧◦<br>  
+<br>  
+* Indesign&emsp;&emsp;&emsp;‧‧‧◦ ◦<br>  
 <br>  
 
