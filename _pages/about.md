@@ -8,7 +8,7 @@ author_profile: true
 
 <h1>RESUME</h1>
 
-
+  
 <small>Name.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;강나경  
 Birth.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1999.12.09  
 Email.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yuriak1209@gmail.com  
@@ -17,11 +17,12 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806</small>
 
 <h2>Education</h2>
 
-<small>2018.02 ~ 2023.02   건국대학교 건축학부 전공<small>
+<li>2018.02 ~ 2023.02   건국대학교 건축학부 전공<li>
 
 <h2>Experience<h2>
 
-<small>2018.02 ~ 2023.02   건국대학교 건축학부 전공<small>
+<small>2018.04 ~ 2018.02   건국대학교 건축대학 학생회, "청춘"  
+&emsp;&emsp;&emsp;&emsp;&emsp;디자인국원<small>
 
 * Fall 2015: Research Assistant
   * GitHub University
@@ -34,7 +35,6 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806</small>
   * Supervisor: Professor Git
   
 <h2>Skills<h2>
-======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
