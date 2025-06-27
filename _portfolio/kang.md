@@ -5,18 +5,21 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-<p style="font-weight:bolder;">bolder
+
 <h2>INDEX</h2>
-<font size="4">Career<br>  
+<p style="font-weight:bold;">bold
+<font size="4">Career<br></p>
 <font size="3">&emsp;달의 기억<br>  
 <font size="3">&emsp;Colorfly<br> 
-<font size="4">Personal Work<br>  
+<p style="font-weight:bold;">bold
+<font size="4">Personal Work<br></p> 
 <font size="3">&emsp;캐릭터<br>  
 <font size="3">&emsp;캐릭터시트<br>
 <font size="3">&emsp;오브젝트<br>
-<font size="4">Extra Work<br>  
+<p style="font-weight:bold;">bold
+<font size="4">Extra Work<br></p>  
 <font size="3">&emsp;기타<br>
-</p><br>
+<br>
 
   
 <h2>Career</h2>
