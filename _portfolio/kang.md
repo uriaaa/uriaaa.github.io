@@ -68,7 +68,7 @@ author_profile: true
   </a>
 </div>
   
-<div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <img src="/images/portfolio/%EC%8B%A0%EC%82%AC2.png" alt="신사2.png" style="height: 350px;">
   <br> 
   <img src="/images/portfolio/%EB%B6%88%ED%83%80%EB%8A%94-%ED%8F%90%EC%8B%A0%EC%82%AC.gif" alt="불타는-폐신사.gif" style="height: 350px;">
