@@ -49,24 +49,13 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
 <br>  
 
 
-<h2>Publications</h2>
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<h2>Certificate</h2>
+<font size="3"><p style="font-weight:normal;">2020.08&emsp;&emsp;&emsp;&emsp;2종 보통 운전면허<br>
+<br>  
+<font size="3"><p style="font-weight:normal;">2021.08&emsp;&emsp;&emsp;&emsp;실내건축기사<br>
+<br>  
+<font size="3"><p style="font-weight:normal;">2024.09&emsp;&emsp;&emsp;&emsp;TOEIC Speaking IH<br>
+<br>  
+<font size="3"><p style="font-weight:normal;">2024.10&emsp;&emsp;&emsp;&emsp;TOEIC 925<br>
+<br>  
+
