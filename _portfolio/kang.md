@@ -5,6 +5,12 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
 
 # Career
 
