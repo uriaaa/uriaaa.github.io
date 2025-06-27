@@ -40,16 +40,16 @@ author_profile: true
 <div style="display: flex; align-items: center; gap: 20px;">
   <!-- 왼쪽 이미지 -->
   <a href="/images/portfolio/Sprite-0001.gif" target="_blank">
-  <img src="/images/portfolio/4109015e-63ba-4a6d-9fa1-f54743cf8128.png" alt="달의 기억" style="width: 200px; border-radius: 4px;">
-</a>
+    <img src="/images/portfolio/4109015e-63ba-4a6d-9fa1-f54743cf8128.png" alt="달의 기억" style="width: 200px; border-radius: 4px;">
+  </a>
   <!-- 오른쪽 설명 -->
   <div style="font-size: 14px; line-height: 1.6;">
     <p><strong>개발:</strong> Unity</p>
     <p><strong>분류:</strong> 공포 탐색형 게임</p>
     <p><strong>제작 기간:</strong> 24.05 ~ 25.09 (예정)</p>
     <p><strong>참여 분야:</strong> 맵 배경 및 기타 오브젝트, 아이콘, 애니메이션 참여</p>
-    <dr>
   </div>
+  <dr>
 </div>
 
 <div style="text-align: center; font-size:14px; margin-top: 10px;">
