@@ -8,10 +8,10 @@ author_profile: true
 
 <h1>RESUME</h1>
 
-<small>Name.      강나경<small>
-<small>Birth.     1999.12.09<small>
-<small>Email.     yuriak1209@gmail.com<small>
-<small>Contact.   010 3306 6806<small>
+<small>Name.      강나경<small><br>
+<small>Birth.     1999.12.09<small><br>
+<small>Email.     yuriak1209@gmail.com<small><br>
+<small>Contact.   010 3306 6806<small><br>
 
 <h2>Education</h2>
 
