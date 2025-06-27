@@ -9,28 +9,28 @@ author_profile: true
 <h1>RESUME</h1>
 
   
-<small>Name.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;강나경  
+<font size="2">Name.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;강나경  
 Birth.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1999.12.09  
 Email.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yuriak1209@gmail.com  
-Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806</small>
+Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
 
 
 <h2>Education</h2>
 
-<font size="3">2018.02 ~ 2023.02&emsp;&emsp;건국대학교 건축학부 전공<br>
+<font size="2">2018.02 ~ 2023.02&emsp;&emsp;건국대학교 건축학부 전공<br>
 
 <h2>Experience<h2>
 
-<font size="3"><p style="font-weight:normal;">2018.04 ~ 2019.02&emsp;&emsp;건국대학교 건축대학 학생회, "청춘"<br>
-<font size="3">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;디자인 국원<br>  
+<font size="2"><p style="font-weight:normal;">2018.04 ~ 2019.02&emsp;&emsp;건국대학교 건축대학 학생회, "청춘"<br>
+<font size="2">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;디자인 국원<br>  
 <br>
-<font size="3">2019.04 ~ 2019.07&emsp;&emsp;건국대학교 건축대학 학생회, "이음"<br>  
-<font size="3">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&nbsp;디자인 국장<br>  
+<font size="2">2019.04 ~ 2019.07&emsp;&emsp;건국대학교 건축대학 학생회, "이음"<br>  
+<font size="2">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&nbsp;디자인 국장<br>  
 <br>
-<font size="3">2019.09 ~ 2020.02&emsp;&emsp;비스바덴, 독일<br>  
-<font size="3">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Rheinmain University, 교환학생<br>  
+<font size="2">2019.09 ~ 2020.02&emsp;&emsp;비스바덴, 독일<br>  
+<font size="2">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Rheinmain University, 교환학생<br>  
 <br>
-<font size="3">2022.03 ~ 2024.04&emsp;&emsp;신한건축사사무소, 사원<br>  
+<font size="2">2022.03 ~ 2024.04&emsp;&emsp;신한건축사사무소, 사원<br>  
   
 <h2>Skills<h2>
 * Skill 1
