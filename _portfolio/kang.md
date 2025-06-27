@@ -6,10 +6,16 @@ author_profile: true
 ---
 
 <h2>INDEX</h2>
-<font size="3">Name.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;강나경<br>  
-Birth.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1999.12.09<br>  
-Email.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yuriak1209@gmail.com<br>  
-Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
+<font size="5">Career<br>  
+<font size="3">달의 기억<br>  
+<font size="3">Colorfly<br> 
+<br> 
+<font size="5">Personal Work<br>  
+<font size="3">캐릭터<br>  
+<font size="3">캐릭터시트<br>
+<font size="3">오브젝트<br>
+<font size="5">Extra Work<br>  
+<font size="3">기타<br>
 <br>
 
   
