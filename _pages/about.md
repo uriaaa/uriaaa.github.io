@@ -15,14 +15,14 @@ Email.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yuriak1209@gmail.com<br>
 Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
 
 
-<h1>Education</h1>
+<h2>Education</h2>
 
   
 <font size="3">2018.02 ~ 2023.02&emsp;&emsp;건국대학교 건축학부 전공<br>
 <br>
 
 
-<h1>Experience</h1>
+<h2>Experience</h2>
 
   
 <font size="3"><p style="font-weight:normal;">2018.04 ~ 2019.02&emsp;&emsp;건국대학교 건축대학 학생회, "청춘"<br>
@@ -36,7 +36,7 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
 <br>
 <font size="3">2022.03 ~ 2024.04&emsp;&emsp;신한건축사사무소, 사원<br>  
   
-<h1>Skills</h1>
+<h2>Skills</h2>
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -44,7 +44,7 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
   * Sub-skill 2.3
 * Skill 3
 
-<h1>Publications</h1>
+<h2>Publications</h2>
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
