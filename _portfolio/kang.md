@@ -47,7 +47,6 @@ author_profile: true
     <p><strong>제작 기간:</strong> 24.05 ~ 25.09 (예정)</p>
     <p><strong>참여 분야:</strong> 맵 배경 및 기타 오브젝트, 아이콘, 애니메이션 참여</p>
   </div>
-  <dr>
 </div>
 
 
