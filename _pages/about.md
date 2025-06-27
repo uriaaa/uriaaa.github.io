@@ -9,7 +9,7 @@ author_profile: true
 <h1>RESUME</h1>
 
 
-<small>Name.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;강나경</br></small>
+<small>Name.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;강나경</br></small>
 <small>Birth.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1999.12.09</br></small>
 <small>Email.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yuriak1209@gmail.com</br></small>
 <small>Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806</br></small>
