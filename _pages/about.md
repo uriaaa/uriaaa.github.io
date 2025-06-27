@@ -8,13 +8,13 @@ author_profile: true
 
 <h1>RESUME</h1>
 
-Education
+<h2>Education</h2>
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
-Work experience
+<h2>Work experience<h2>
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -31,7 +31,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+<h2>Skills<h2>
 ======
 * Skill 1
 * Skill 2
@@ -40,7 +40,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+<h2>Publications<h2>
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
