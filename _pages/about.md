@@ -54,7 +54,7 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
 <br>  
 * Photoshop&emsp;&emsp;&nbsp;● ● ● ● ●<br>
 <br>  
-* Illustrator&emsp;&emsp;● ● ● ● <br>  
+* Illustrator&emsp;&emsp;&emsp;● ● ● ● <br>  
 <br>  
 * Indesign&emsp;&emsp;&emsp;&nbsp;&nbsp;● ● ● <br>  
 <br>  
