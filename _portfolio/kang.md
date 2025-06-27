@@ -30,14 +30,13 @@ author_profile: true
 
 ----------------------------------------------
 
+<hr>
 
-
-      
+<!-- Career Section -->      
 <h2>Career</h2>
 
 <h3>1. 달의 기억</h3>
-
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <!-- 왼쪽 이미지 -->
     <img src="/images/portfolio/4109015e-63ba-4a6d-9fa1-f54743cf8128.png" alt="달의 기억" style="width: 200px; border-radius: 4px;">
   <!-- 오른쪽 설명 -->
@@ -49,7 +48,7 @@ author_profile: true
   </div>
 </div>
 
-
+<!-- Artstation 링크 -->
 <div style="text-align: center; font-size:14px; margin-top: 10px;">
   <a href="https://www.artstation.com/artwork/XJJoa3" target="_blank">
     추가 이미지는 이 링크에서 확인 가능합니다
@@ -57,12 +56,12 @@ author_profile: true
 </div>
 
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-top: 20px;">
   <a href="/images/portfolio/Sprite-0001.gif" target="_blank">
-  <img src="/images/portfolio/Sprite-0001.gif" alt="Sprite" style="height: auto;">
+  <img src="/images/portfolio/Sprite-0001.gif" alt="Sprite" style="max-width: 100%; height: auto; margin-bottom: 10px;">
   <br>
-  <img src="/images/portfolio/%EC%88%B23.png" alt="숲3.png" style="height: auto;">
-  <br>
+  <img src="/images/portfolio/%EC%88%B23.png" alt="숲3.png" style="max-width: 100%; height: auto; margin-bottom: 10px;">
+  </a><br>
 </div>
   
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
