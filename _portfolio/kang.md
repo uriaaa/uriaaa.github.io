@@ -50,15 +50,17 @@ author_profile: true
   </div>
 </div>
 
-<div style="text-align: center; font-size:14px;">
+<div style="text-align: center; font-size:14px; margin-top: 10px;">
   <a href="https://www.artstation.com/artwork/XJJoa3" target="_blank">
     추가 이미지는 이 링크에서 확인 가능합니다
   </a>
 </div>
 
-<img src="/images/portfolio/Sprite-0001.gif" class="center-image" alt="Sprite-0001.gif">
+<div style="text-align: center;">
+  <img src="/images/portfolio/Sprite-0001.gif" alt="Sprite" style="max-width: 100%; height: auto;">
+  <br>
+</div>
 
-<br>
 ![숲3.png](/images/portfolio/%EC%88%B23.png)
 <br>
 ![신사2.png](/images/portfolio/%EC%8B%A0%EC%82%AC2.png)
