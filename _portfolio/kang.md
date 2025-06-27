@@ -30,7 +30,7 @@ author_profile: true
   </a>
 </p>
 
-<img src="//images/portfolio/Sprite-0001.gif" class="center-image" alt="Sprite-0001.gif">
+<img src="/images/portfolio/Sprite-0001.gif" class="center-image" alt="Sprite-0001.gif">
 
 ![숲3.png](/images/portfolio/%EC%88%B23.png)
 
