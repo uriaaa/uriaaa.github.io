@@ -9,10 +9,10 @@ author_profile: true
 <h1>RESUME</h1>
 
 <small>
-Name.'      '강나경
-Birth.'     '1999.12.09
-Email.'     'yuriak1209@gmail.com
-Contact.'   '010 3306 6806
+Name.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp강나경
+Birth.&nbsp&nbsp&nbsp&nbsp&nbsp1999.12.09
+Email.&nbsp&nbsp&nbsp&nbsp&nbspyuriak1209@gmail.com
+Contact.&nbsp&nbsp&nbsp010 3306 6806
 </small>
 
 <h2>Education</h2>
