@@ -5,13 +5,12 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-![1750946571402-a08b021a-be13-455d-96f5-441eace24662_2.png](images/e6bf41f1-1606-4a15-8cad-dea76ffc7d2f_Export-f6dd3b67-baac-40d4-8c1b-42210a835266/2.png)
 
 # Career
 
 ### 1. 달의 기억
 
-![달의기억.png](4109015e-63ba-4a6d-9fa1-f54743cf8128.png)
+![달의기억.png](/images/e6bf41f1-1606-4a15-8cad-dea76ffc7d2f_Export-f6dd3b67-baac-40d4-8c1b-42210a835266/4109015e-63ba-4a6d-9fa1-f54743cf8128.png)
 
 **개발**: Unity
 
