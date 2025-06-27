@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-
+----------------------------------------------
 <h2>INDEX</h2>
 <font size="4">Career<br>
 <font size="3">&emsp;달의 기억<br>  
@@ -18,7 +18,7 @@ author_profile: true
 <font size="3">&emsp;기타<br>
 <br>
 
------------------------
+----------------------------------------------
 <h2>Career</h2>
 
 <h3>1. 달의 기억</h3>
