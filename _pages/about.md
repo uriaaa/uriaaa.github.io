@@ -6,9 +6,7 @@ author_profile: true
 
 <img src='/images/2.png'>
 
-<h2>RESUME</h2>
-
-{% include base_path %}
+<h1>RESUME</h1>
 
 Education
 ======
