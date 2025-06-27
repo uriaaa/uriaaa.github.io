@@ -18,9 +18,9 @@ author_profile: true
 <br>
 
   
-# Career
+<h2>Career</h2>
 
-### 1. 달의 기억
+<h3>1. 달의 기억</h3>
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <!-- 왼쪽 이미지 -->
