@@ -24,11 +24,11 @@ author_profile: true
   </div>
 </div>
 
-<p>
+<div style="text-align: center;">
   <a href="https://www.artstation.com/artwork/XJJoa3" target="_blank">
     추가 이미지는 이 링크에서 확인 가능합니다
   </a>
-</p>
+</div>
 
 <img src="/images/portfolio/Sprite-0001.gif" class="center-image" alt="Sprite-0001.gif">
 
