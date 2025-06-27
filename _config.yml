@@ -41,6 +41,7 @@ author:
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #researchgate     : # URL
   #scopus           : # URL
+  artstation       : "https://www.artstation.com/yuriak"
 
   # Repositories and software development
   #bitbucket        : # Username - Update with your username on the site
@@ -69,7 +70,6 @@ author:
   #telegram         : # URL
   #tumblr           : # Username
   twitter          : "its_yuriaK"
-  artstation       : "yuriak"
   #vine             : # Username
   #weibo            : # Username
   #wikipedia        : # Username
