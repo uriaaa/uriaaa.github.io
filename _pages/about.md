@@ -17,11 +17,14 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
 
 <h2>Education</h2>
 
+  
 <font size="2">2018.02 ~ 2023.02&emsp;&emsp;건국대학교 건축학부 전공<br>
 <br>
 
+
 <h2>Experience<h2>
 
+  
 <font size="2"><p style="font-weight:normal;">2018.04 ~ 2019.02&emsp;&emsp;건국대학교 건축대학 학생회, "청춘"<br>
 <font size="2">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;디자인 국원<br>  
 <br>
