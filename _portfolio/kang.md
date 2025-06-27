@@ -16,15 +16,20 @@ author_profile: true
 
 ### 1. 달의 기억
 
+<div style="display: flex; align-items: center; gap: 20px;">
+  <!-- 왼쪽 이미지 -->
+  <img src="/images/portfolio/4109015e-63ba-4a6d-9fa1-f54743cf8128.png" alt="달의 기억" style="width: 200px; border-radius: 4px;">
+
+  <!-- 오른쪽 설명 -->
+  <div style="font-size: 14px; line-height: 1.6;">
+    <p><strong>**개발**: Unity</p>
+    <p><strong>**분류**: 공포 탐색형 게임</p>
+    <p><strong>**제작 기간**: 24.05 ~ 25.09 (예정)</p>
+    <p><strong>**참여 분야**: 맵 배경 및 기타 오브젝트, 아이콘, 애니메이션 참여</p>
+  </div>
+</div>
+
 ![달의기억.png](/images/portfolio/4109015e-63ba-4a6d-9fa1-f54743cf8128.png)
-
-**개발**: Unity
-
-**분류**: 공포 탐색형 게임
-
-**제작 기간**: 24.05 ~ 25.09 (예정)
-
-**참여 분야**: 맵 배경 및 기타 오브젝트, 아이콘, 애니메이션 참여
 
 https://www.artstation.com/artwork/XJJoa3
 
