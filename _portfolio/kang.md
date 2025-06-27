@@ -6,16 +6,15 @@ author_profile: true
 ---
 
 <h2>INDEX</h2>
-<font size="5">Career<br>  
-<font size="3">달의 기억<br>  
-<font size="3">Colorfly<br> 
-<br> 
-<font size="5">Personal Work<br>  
-<font size="3">캐릭터<br>  
-<font size="3">캐릭터시트<br>
-<font size="3">오브젝트<br>
-<font size="5">Extra Work<br>  
-<font size="3">기타<br>
+<font size="4">Career<br>  
+<font size="3">&emsp;달의 기억<br>  
+<font size="3">&emsp;Colorfly<br> 
+<font size="4">Personal Work<br>  
+<font size="3">&emsp;캐릭터<br>  
+<font size="3">&emsp;캐릭터시트<br>
+<font size="3">&emsp;오브젝트<br>
+<font size="4">Extra Work<br>  
+<font size="3">&emsp;기타<br>
 <br>
 
   
