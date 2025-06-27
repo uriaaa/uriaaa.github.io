@@ -1,7 +1,8 @@
 ---
 title: "강나경"
 layout: single
-date: 2025-06-01
+permalink: /portfolio/
+author_profile: true
 ---
 
 ![1750946571402-a08b021a-be13-455d-96f5-441eace24662_2.png](1750946571402-a08b021a-be13-455d-96f5-441eace24662_2.png)
