@@ -63,13 +63,13 @@ author_profile: true
 </div>
   
 <div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
-  <img src="/images/portfolio/%EC%8B%A0%EC%82%AC2.png" alt="신사2.png" style="max-width: 100%; height: auto;">
+  <img src="/images/portfolio/%EC%8B%A0%EC%82%AC2.png" alt="신사2.png" style="height: auto;">
   <br> 
   <img src="/images/portfolio/%EB%B6%88%ED%83%80%EB%8A%94-%ED%8F%90%EC%8B%A0%EC%82%AC.gif" alt="불타는-폐신사.gif" style="height: auto;">
 </div>
 
   <div style="text-align: center;">
-  <img src="/images/portfolio/%EC%A0%80%ED%83%9D%EC%99%B8%EB%B6%804.png" alt="저택외부4.png" style="height: auto;">
+  <img src="/images/portfolio/%EC%A0%80%ED%83%9D%EC%99%B8%EB%B6%804.png" alt="저택외부4.png" style="max-width: 100%; height: auto;">
   <br> 
   <img src="/images/portfolio/1f-%EB%8A%98%EB%A6%BC2.png" alt="1f-늘림2.png" style="max-width: 100%; height: auto;">
   <br> 
