@@ -36,7 +36,7 @@ author_profile: true
   </div>
 </div>
 
-<div style="text-align: center; font-size:12px;">
+<div style="text-align: center; font-size:14px;">
   <a href="https://www.artstation.com/artwork/XJJoa3" target="_blank">
     추가 이미지는 이 링크에서 확인 가능합니다
   </a>
