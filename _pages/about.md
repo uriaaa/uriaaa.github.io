@@ -8,16 +8,18 @@ author_profile: true
 
 <h1>RESUME</h1>
 
+<small>Name.      강나경<small>
+<small>Birth.     1999.12.09<small>
+<small>Email.     yuriak1209@gmail.com<small>
+<small>Contact.   010 3306 6806<small>
+
 <h2>Education</h2>
 
-<small>2018.02 ~ 2023.02 건국대학교 건축학부 전공<small>
+<small>2018.02 ~ 2023.02   건국대학교 건축학부 전공<small>
 
-<h2>Work experience<h2>
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<h2>Experience<h2>
+
+<small>2018.02 ~ 2023.02   건국대학교 건축학부 전공<small>
 
 * Fall 2015: Research Assistant
   * GitHub University
