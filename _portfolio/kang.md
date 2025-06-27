@@ -5,6 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+<p style="font-weight:bolder;">bolder
 <h2>INDEX</h2>
 <font size="4">Career<br>  
 <font size="3">&emsp;달의 기억<br>  
@@ -15,7 +16,7 @@ author_profile: true
 <font size="3">&emsp;오브젝트<br>
 <font size="4">Extra Work<br>  
 <font size="3">&emsp;기타<br>
-<br>
+</p><br>
 
   
 <h2>Career</h2>
