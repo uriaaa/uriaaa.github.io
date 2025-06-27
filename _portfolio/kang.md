@@ -22,10 +22,10 @@ author_profile: true
 
   <!-- 오른쪽 설명 -->
   <div style="font-size: 14px; line-height: 1.6;">
-    <p><strong>**개발**: Unity</p>
-    <p><strong>**분류**: 공포 탐색형 게임</p>
-    <p><strong>**제작 기간**: 24.05 ~ 25.09 (예정)</p>
-    <p><strong>**참여 분야**: 맵 배경 및 기타 오브젝트, 아이콘, 애니메이션 참여</p>
+    <p><strong>개발:</strong> Unity</p>
+    <p><strong>분류:</strong> 공포 탐색형 게임</p>
+    <p><strong>제작 기간:</strong> 24.05 ~ 25.09 (예정)</p>
+    <p><strong>참여 분야:</strong> 맵 배경 및 기타 오브젝트, 아이콘, 애니메이션 참여</p>
   </div>
 </div>
 
