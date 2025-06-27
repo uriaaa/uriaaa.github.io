@@ -35,6 +35,8 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
 <font size="3">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Rheinmain University, 교환학생<br>  
 <br>
 <font size="3">2022.03 ~ 2024.04&emsp;&emsp;신한건축사사무소, 사원<br>  
+<br>
+
   
 <h2>Skills</h2>
 * Skill 1
