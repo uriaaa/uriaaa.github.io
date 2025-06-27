@@ -39,12 +39,10 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
 
   
 <h2>Skills</h2>
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Aseprite<br>  
+* Photoshop<br>  
+* Illustration<br>  
+* Indesign<br>  
 
 <h2>Publications</h2>
 ======
