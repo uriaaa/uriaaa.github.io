@@ -9,10 +9,8 @@ author_profile: true
 <h1>RESUME</h1>
 
 <h2>Education</h2>
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+2018.02 ~ 2023.02 건국대학교 건축학부 전공
 
 <h2>Work experience<h2>
 ======
