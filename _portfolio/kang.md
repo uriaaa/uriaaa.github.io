@@ -45,19 +45,19 @@ author_profile: true
 <img src="/images/portfolio/Sprite-0001.gif" class="center-image" alt="Sprite-0001.gif">
 
 ![숲3.png](/images/portfolio/%EC%88%B23.png)
-
+<br>
 ![신사2.png](/images/portfolio/%EC%8B%A0%EC%82%AC2.png)
-
+<br>
 ![불타는-폐신사.gif](/images/portfolio/%EB%B6%88%ED%83%80%EB%8A%94-%ED%8F%90%EC%8B%A0%EC%82%AC.gif)
-
+<br>
 ![저택외부4.png](/images/portfolio/%EC%A0%80%ED%83%9D%EC%99%B8%EB%B6%804.png)
-
+<br>
 ![1f-늘림2.png](/images/portfolio/1f-%EB%8A%98%EB%A6%BC2.png)
-
+<br>
 ![2f-늘림.png](/images/portfolio/2f-%EB%8A%98%EB%A6%BC.png)
-
+<br>
 ![교실수정.png](/images/portfolio/%EA%B5%90%EC%8B%A4%EC%88%98%EC%A0%95.png)
-
+<br>
 ![유우지 집ver1.png](/images/portfolio/%EC%9C%A0%EC%9A%B0%EC%A7%80_%EC%A7%91ver1.png)
 
 <iframe width="560" height="315"
