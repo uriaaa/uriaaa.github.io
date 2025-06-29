@@ -11,7 +11,7 @@ author_profile: true
     top: 180px;
     right: 0;
     width: 20px;
-    height: 100px;
+    height: 200px;
     background-color: rgba(255, 255, 255, 0.9);
     border-left: 5px solid #ddd;
     transition: width 0.3s ease;
