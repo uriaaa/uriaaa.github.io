@@ -61,10 +61,9 @@ author_profile: true
   <a href="/images/portfolio/Sprite-0001.gif" target="_blank">
   <img src="/images/portfolio/Sprite-0001.gif" alt="Sprite" style="max-width: 100%; height: auto; margin-bottom: 10px;">
   </a><br>
-  <br>
   <a href="/images/portfolio/Sprite-0001.gif" target="_blank">
   <img src="/images/portfolio/%EC%88%B23.png" alt="숲3.png" style="max-width: 100%; height: auto; margin-bottom: 10px;">
-  </a><br>
+  </a>
 </div>
   
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
