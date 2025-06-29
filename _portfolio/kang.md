@@ -28,7 +28,6 @@ author_profile: true
   </li>
 </ul>
 
-----------------------------------------------
 
 <hr>
 
@@ -68,10 +67,10 @@ author_profile: true
   </a><br>
 </div>
   
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <img src="/images/portfolio/%EC%8B%A0%EC%82%AC2.png" alt="신사2.png" style="height: 350px;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="/images/portfolio/%EC%8B%A0%EC%82%AC2.png" alt="신사2.png" style="width: 50%, max-width: 400px; height:auto;">
   <br> 
-  <img src="/images/portfolio/%EB%B6%88%ED%83%80%EB%8A%94-%ED%8F%90%EC%8B%A0%EC%82%AC.gif" alt="불타는-폐신사.gif" style="height: 350px;">
+  <img src="/images/portfolio/%EB%B6%88%ED%83%80%EB%8A%94-%ED%8F%90%EC%8B%A0%EC%82%AC.gif" alt="불타는-폐신사.gif" style="width: 50%, max-width: 400px; height:auto;">
 </div>
 
   <div style="text-align: center;">
