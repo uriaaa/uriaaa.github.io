@@ -5,34 +5,52 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+<!-- 🔹 오른쪽 고정 목차 네비게이터 스타일 -->
 <style>
-  .section-title {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-
-  .section-title h2, .section-title h3 {
-    margin: 0;
-  }
-
-  .anchor-link {
+  .side-nav {
+    position: fixed;
+    top: 100px;
+    right: 40px;
+    width: 200px;
+    background-color: #f9f9f9;
+    border-left: 2px solid #ddd;
+    padding: 15px;
     font-size: 14px;
-    text-decoration: none;
-    color: #888;
-    margin-left: 10px;
-    visibility: hidden;
+    z-index: 999;
   }
 
-  .section-title:hover .anchor-link {
-    visibility: visible;
+  .side-nav a {
+    display: block;
+    margin-bottom: 8px;
+    color: #444;
+    text-decoration: none;
+  }
+
+  .side-nav a:hover {
+    color: #000;
+    font-weight: bold;
+  }
+
+  @media (max-width: 1000px) {
+    .side-nav {
+      display: none; /* 모바일에서는 숨김 */
+    }
   }
 </style>
 
+<!-- 고정 네비게이터 HTML -->
+<div class="side-nav">
+  <strong>Career</strong>
+  <a href="#dal">달의 기억</a>
+  <a href="#colorfly">Colorfly</a>
 
-<div class="section-title" id="colorfly">
-  <h2>Colorfly</h2>
-  <a href="#dal-memory" class="anchor-link">●</a>  
+  <br><strong>Personal Work</strong>
+  <a href="#character">캐릭터</a>
+  <a href="#character-sheet">캐릭터시트</a>
+  <a href="#objects">오브젝트</a>
+
+  <br><strong>Extra Work</strong>
+  <a href="#etc">기타</a>
 </div>
 
 ----------------------------------------------
@@ -71,17 +89,15 @@ author_profile: true
 </div>
 
 
-<div class="section-title" id="dal-memory">
-  <h3>달의 기억</h3>
-  <a href="#dal-memory" class="anchor-link">●</a>
-</div>
+
+<h3 id="dal">1. 달의 기억</h3>
 
 {% include amoon.html %}
 
-<h3>2. Colorfly</h3>
+<h3 id=colorfly">2. Colorfly</h3>
 {% include acolorfly.html %}
 
-<h3>3. Personal Work</h3>
+<h3 id="self">3. Personal Work</h3>
 {% include aself.html %}
 
 <!-- 모달 창 구조 -->
