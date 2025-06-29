@@ -67,7 +67,7 @@ author_profile: true
 </div>
 
 <!-- 이미지 2개 -->
-<div style="display: flex; justify-content: align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <a href="/images/portfolio/%EC%8B%A0%EC%82%AC2.png" target="_blank" style="flex: 1; max-width: 45%; min-width: 300px;">
   <img src="/images/portfolio/%EC%8B%A0%EC%82%AC2.png" alt="신사2.png" style="width: 100%; height: auto; display: block;">
   </a>
