@@ -29,10 +29,7 @@ author_profile: true
   }
 </style>
 
-<div class="section-title" id="dal-memory">
-  <h2>달의 기억</h2>
-  <a href="#dal-memory" class="anchor-link">●</a>
-</div>
+
 <div class="section-title" id="colorfly">
   <h2>Colorfly</h2>
   <a href="#dal-memory" class="anchor-link">●</a>  
@@ -73,7 +70,12 @@ author_profile: true
   <img id="modalImage" style="margin: 40px auto; display: block; max-width: 100%; max-height: 100%;">
 </div>
 
-<h3>1. 달의 기억</h3>
+
+<div class="section-title" id="dal-memory">
+  <h3>달의 기억</h3>
+  <a href="#dal-memory" class="anchor-link">●</a>
+</div>
+
 {% include amoon.html %}
 
 <h3>2. Colorfly</h3>
