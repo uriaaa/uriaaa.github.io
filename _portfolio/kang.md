@@ -15,7 +15,7 @@ author_profile: true
     background-color: #f2f2f2;
     border-left: 2px solid #ddd;
     padding: 15px;
-    font-size: 12px;
+    font-size: 13px;
     z-index: 999;
   }
 
