@@ -44,10 +44,10 @@ author_profile: true
   <a href="#dal">달의 기억</a>
   <a href="#colorfly">Colorfly</a>
 
-  <br><strong>Personal Work</strong>
-  <a href="#character">캐릭터</a>
-  <a href="#character-sheet">캐릭터시트</a>
-  <a href="#objects">오브젝트</a>
+  <br><strong><a href="#self">Personal Work</a></strong>
+  <a href="#cha">캐릭터</a>
+  <a href="#sheet">캐릭터시트</a>
+  <a href="#object">오브젝트</a>
 
   <br><strong>Extra Work</strong>
   <a href="#etc">기타</a>
@@ -98,9 +98,14 @@ author_profile: true
 {% include acolorfly.html %}
 
 <h3 id="self">3. Personal Work</h3>
+<h4 id="cha">&emsp;Character</h4>
 {% include aself1.html %}
+<h4 id="sheet">&emsp;Character Sheet</h4>
 {% include aself2.html %}
+<h4 id="object">&emsp;Object</h4>
 {% include aself3.html %}
+
+<h3 id="self">4. Extra</h3>
 {% include aself4.html %}
 
 <!-- 모달 창 구조 -->
