@@ -8,10 +8,10 @@ author_profile: true
 <style>
   .side-nav {
     position: fixed;
-    top: 80px;
+    top: 180px;
     right: 0;
     width: 20px;
-    height: auto;
+    height: 100px;
     background-color: rgba(255, 255, 255, 0.9);
     border-left: 5px solid #ddd;
     transition: width 0.3s ease;
