@@ -75,9 +75,11 @@ author_profile: true
   </a>
 </div>
 
-  <div style="text-align: center;">
-  <img src="/images/portfolio/%EC%A0%80%ED%83%9D%EC%99%B8%EB%B6%804.png" alt="저택외부4.png" style="max-width: 100%; height: auto;">
-  <br> 
+  <div style="text-align: center; margin-top: 20px;">
+    <a href="/images/portfolio/%EC%A0%80%ED%83%9D%EC%99%B8%EB%B6%804.png" target="_blank">
+    <img src="/images/portfolio/%EC%A0%80%ED%83%9D%EC%99%B8%EB%B6%804.png" alt="저택외부4.png" style="max-width: 100%; height: auto;">
+    </a><br> 
+  </div>
   <img src="/images/portfolio/1f-%EB%8A%98%EB%A6%BC2.png" alt="1f-늘림2.png" style="max-width: 100%; height: auto;">
   <br> 
   <img src="/images/portfolio/2f-%EB%8A%98%EB%A6%BC.png" alt="2f-늘림.png" style="max-width: 100%; height: auto;">
