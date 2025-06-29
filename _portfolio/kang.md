@@ -9,13 +9,13 @@ author_profile: true
 <style>
   .side-nav {
     position: fixed;
-    top: 100px;
+    top: 150px;
     right: 40px;
-    width: 200px;
-    background-color: #f9f9f9;
+    width: 150px;
+    background-color: #f2f2f2;
     border-left: 2px solid #ddd;
     padding: 15px;
-    font-size: 14px;
+    font-size: 12px;
     z-index: 999;
   }
 
