@@ -99,7 +99,7 @@ author_profile: true
   </li>
 </ul>
 <div style="font-size:12px;">
-&emsp&emsp 오른쪽 네비게이션 바를 누르시면 바로 이동합니다
+&emsp&emsp 오른쪽 네비게이션에서 해당 카테고리로 바로 이동할 수 있습니다
 </div>
 
 
