@@ -4,6 +4,19 @@ layout: single
 permalink: /portfolio/
 author_profile: true
 ---
+<style>
+  /* 기본 링크 스타일 */
+  a {
+    text-decoration: none;
+    color: #333; /* 기본 글자색 */
+    transition: color 0.3s ease; /* 부드럽게 색 변환 */
+  }
+
+  /* 마우스 올렸을 때 */
+  a:hover {
+    color: #008cba; /* 원하는 색으로 변경 (예: 파란 계열) */
+  }
+</style>
 
 <style>
   .side-nav {
