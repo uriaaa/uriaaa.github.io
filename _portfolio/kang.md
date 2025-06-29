@@ -80,6 +80,8 @@ author_profile: true
     <a href="/images/portfolio/%EC%A0%80%ED%83%9D%EC%99%B8%EB%B6%804.png" target="_blank">
     <img src="/images/portfolio/%EC%A0%80%ED%83%9D%EC%99%B8%EB%B6%804.png" alt="저택외부4.png" style="max-width: 100%; height: auto;">
     </a><br> 
+  </div>
+
 
   <!-- 이미지 2개 -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
