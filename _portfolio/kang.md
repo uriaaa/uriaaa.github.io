@@ -90,29 +90,29 @@ author_profile: true
 
 
 
-<h3 id="dal">1. 달의 기억</h3>
+<h2 id="dal">1. 달의 기억</h2>
 
 {% include amoon.html %}
 
-<h3 id="color">2. Colorfly</h3>
+<h2 id="color">2. Colorfly</h2>
 
 {% include acolorfly.html %}
 
-<h3>3. Personal Work</h3>
+<h2>3. Personal Work</h2>
 
-<h4 id="cha">&emsp;Character</h4>
+<h3 id="cha">&emsp;Character</h3>
 
 {% include aself1.html %}
 
-<h4 id="sheet">&emsp;Character Sheet</h4>
+<h3 id="sheet">&emsp;Character Sheet</h3>
 
 {% include aself2.html %}
 
-<h4 id="object">&emsp;Object</h4>
+<h3 id="object">&emsp;Object</h3>
 
 {% include aself3.html %}
 
-<h3 id="etc">4. Extra</h3>
+<h2 id="etc">4. Extra</h2>
 
 {% include aself4.html %}
 
