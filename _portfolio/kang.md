@@ -38,7 +38,9 @@ author_profile: true
 <h3>1. 달의 기억</h3>
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <!-- 왼쪽 이미지 -->
+  <a href="/images/portfolio/4109015e-63ba-4a6d-9fa1-f54743cf8128.png" target="_blank">
     <img src="/images/portfolio/4109015e-63ba-4a6d-9fa1-f54743cf8128.png" alt="달의 기억" style="width: 200px; border-radius: 4px;">
+  </a><br>
   <!-- 오른쪽 설명 -->
   <div style="font-size: 14px; line-height: 1.6;">
     <p><strong>개발:</strong> Unity</p>
