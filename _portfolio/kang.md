@@ -73,29 +73,19 @@ author_profile: true
 </div>
 
   <div style="text-align: center; margin-top: 20px;">
-    <a href="/images/portfolio/%EC%A0%80%ED%83%9D%EC%99%B8%EB%B6%804.png" target="_blank">
-    <img src="/images/portfolio/%EC%A0%80%ED%83%9D%EC%99%B8%EB%B6%804.png" alt="저택외부4.png" style="max-width: 100%; height: auto;">
-    </a><br> 
+    <img src="/images/portfolio/%EC%A0%80%ED%83%9D%EC%99%B8%EB%B6%804.png" alt="저택외부4.png" style="max-width: 100%; height: auto;"><br> 
   </div>
 
 
   <!-- 이미지 2개 -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <a href="/images/portfolio/1f-%EB%8A%98%EB%A6%BC2.png" target="_blank" style="flex: 1; max-width: 48%; min-width: 300px;">
-  <img src="/images/portfolio/1f-%EB%8A%98%EB%A6%BC2.png" alt="1f-늘림2.png" style="width: 100%; height: auto; display: block;">
-  </a>
-  <a href="/images/portfolio/2f-%EB%8A%98%EB%A6%BC.png" target="_blank" style="flex: 1; max-width: 48%; min-width: 300px;">  
-  <img src="/images/portfolio/2f-%EB%8A%98%EB%A6%BC.png" alt="2f-늘림.png" style="width: 100%; height: auto; display: block;">
-  </a>
+  <img src="/images/portfolio/1f-%EB%8A%98%EB%A6%BC2.png" alt="1f-늘림2.png" style="flex: 1; max-width: 48%; min-width: 300px; width: 100%; height: auto; display: block; cursor: zoom-in;"><br>
+  <img src="/images/portfolio/2f-%EB%8A%98%EB%A6%BC.png" alt="2f-늘림.png" style="flex: 1; max-width: 48%; min-width: 300px; width: 100%; height: auto; display: block; cursor: zoom-in;"><br>
 </div>
 
   <div style="text-align: center; margin-top: 20px;">
-  <a href="/images/portfolio/%EA%B5%90%EC%8B%A4%EC%88%98%EC%A0%95.png" target="_blank">
-  <img src="/images/portfolio/%EA%B5%90%EC%8B%A4%EC%88%98%EC%A0%95.png" alt="교실수정.png" style="max-width: 100%; height: auto; margin-bottom: 10px;">
-  </a><br> 
-  <a href="/images/portfolio/%EC%9C%A0%EC%9A%B0%EC%A7%80_%EC%A7%91ver1.png" target="_blank">
-  <img src="/images/portfolio/%EC%9C%A0%EC%9A%B0%EC%A7%80_%EC%A7%91ver1.png" alt="유우지 집ver1.png" style="max-width: 100%; height: auto;">
-  </a>
+  <img src="/images/portfolio/%EA%B5%90%EC%8B%A4%EC%88%98%EC%A0%95.png" alt="교실수정.png" style="flex: 1; max-width: 48%; min-width: 300px; width: 100%; height: auto; display: block; cursor: zoom-in;"><br>
+  <img src="/images/portfolio/%EC%9C%A0%EC%9A%B0%EC%A7%80_%EC%A7%91ver1.png" alt="유우지 집ver1.png" style="flex: 1; max-width: 48%; min-width: 300px; width: 100%; height: auto; display: block; cursor: zoom-in;"><br>
 </div>
 
 <iframe width="560" height="315"
