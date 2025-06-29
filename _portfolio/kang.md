@@ -71,7 +71,6 @@ author_profile: true
   <a href="/images/portfolio/%EC%8B%A0%EC%82%AC2.png" target="_blank" style="flex: 1; max-width: 48%; min-width: 300px;">
   <img src="/images/portfolio/%EC%8B%A0%EC%82%AC2.png" alt="신사2.png" style="width: 100%; height: auto; display: block;">
   </a>
-  
   <a href="/images/portfolio/%EB%B6%88%ED%83%80%EB%8A%94-%ED%8F%90%EC%8B%A0%EC%82%AC.gif" target="_blank" style="flex: 1; max-width: 48%; min-width: 300px;">
   <img src="/images/portfolio/%EB%B6%88%ED%83%80%EB%8A%94-%ED%8F%90%EC%8B%A0%EC%82%AC.gif" alt="불타는-폐신사.gif" style="width: 100%; height: auto; display: block;">
   </a>
@@ -83,11 +82,14 @@ author_profile: true
     </a><br> 
 
   <!-- 이미지 2개 -->
-  </div>
-  <img src="/images/portfolio/1f-%EB%8A%98%EB%A6%BC2.png" alt="1f-늘림2.png" style="max-width: 100%; height: auto;">
-
-  <img src="/images/portfolio/2f-%EB%8A%98%EB%A6%BC.png" alt="2f-늘림.png" style="max-width: 100%; height: auto;">
-
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <a href="/images/portfolio/1f-%EB%8A%98%EB%A6%BC2.png" target="_blank" style="flex: 1; max-width: 48%; min-width: 300px;">
+  <img src="/images/portfolio/1f-%EB%8A%98%EB%A6%BC2.png" alt="1f-늘림2.png" style="width: 100%; height: auto; display: block;">
+  </a>
+  <a href="/images/portfolio/2f-%EB%8A%98%EB%A6%BC.png" target="_blank" style="flex: 1; max-width: 48%; min-width: 300px;">  
+  <img src="/images/portfolio/2f-%EB%8A%98%EB%A6%BC.png" alt="2f-늘림.png" style="width: 100%; height: auto; display: block;">
+  </a>
+</div>
 
   <div style="text-align: center; margin-top: 20px;">
   <a href="/images/portfolio/%EA%B5%90%EC%8B%A4%EC%88%98%EC%A0%95.png" target="_blank">
