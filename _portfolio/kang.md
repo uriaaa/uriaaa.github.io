@@ -28,6 +28,10 @@ author_profile: true
   </li>
 </ul>
 
+<div id="imgModal" style="display: none; position: fixed; z-index: 9999; padding-top: 60px; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.9);">
+  <span id="modalClose" style="position: absolute; top: 20px; right: 35px; color: #fff; font-size: 40px; font-weight: bold; cursor: pointer;">&times;</span>
+  <img id="modalImage" style="margin: auto; display: block; max-width: 80%; max-height: 80%;">
+</div>
 
 <hr>
 
@@ -37,9 +41,7 @@ author_profile: true
 <h3>1. 달의 기억</h3>
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <!-- 왼쪽 이미지 -->
-  <a href="/images/portfolio/4109015e-63ba-4a6d-9fa1-f54743cf8128.png" target="_blank">
     <img src="/images/portfolio/4109015e-63ba-4a6d-9fa1-f54743cf8128.png" alt="달의 기억" style="width: 200px; border-radius: 4px;">
-  </a><br>
   <!-- 오른쪽 설명 -->
   <div style="font-size: 14px; line-height: 1.6;">
     <p><strong>개발:</strong> Unity</p>
@@ -236,3 +238,36 @@ author_profile: true
 ## Wall Paper
 
 ![베너4.png](/images/portfolio/%EB%B2%A0%EB%84%884.png)
+
+<script>
+  // 모달 요소 가져오기
+  const modal = document.getElementById('imgModal');
+  const modalImg = document.getElementById('modalImage');
+  const modalClose = document.getElementById('modalClose');
+
+    // 모든 이미지에 클릭 이벤트 추가
+  document.addEventListener("DOMContentLoaded", () => {
+    const images = document.querySelectorAll("img");
+
+    images.forEach(img => {
+      img.style.cursor = 'pointer'; // 커서 표시 변경
+      img.addEventListener('click', () => {
+        modal.style.display = "block";
+        modalImg.src = img.src;
+        modalImg.alt = img.alt;
+      });
+    });
+  });
+
+    // 닫기 버튼 클릭 시 모달 닫기
+  modalClose.addEventListener("click", () => {
+    modal.style.display = "none";
+  });
+
+  // 모달 바깥 영역 클릭 시 닫기
+  window.addEventListener("click", (event) => {
+    if (event.target === modal) {
+      modal.style.display = "none";
+    }
+  });
+</script>
