@@ -122,15 +122,15 @@ author_profile: true
 
 <h2>3. Personal Work</h2>
 
-<h3 id="cha">&emsp;Character</h3>
+<h3 id="cha">● &emsp;Character</h3>
 
 {% include aself1.html %}
 
-<h3 id="sheet">&emsp;Character Sheet</h3>
+<h3 id="sheet">● &emsp;Character Sheet</h3>
 
 {% include aself2.html %}
 
-<h3 id="object">&emsp;Object</h3>
+<h3 id="object">● &emsp;Object</h3>
 
 {% include aself3.html %}
 
