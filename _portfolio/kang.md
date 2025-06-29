@@ -42,7 +42,7 @@ author_profile: true
 <div class="side-nav">
   <strong>Career</strong>
   <a href="#dal">달의 기억</a>
-  <a href="#colorfly">Colorfly</a>
+  <a href="#color">Colorfly</a>
 
   <br><strong>Personal Work</strong>
   <a href="#cha">캐릭터</a>
@@ -94,7 +94,7 @@ author_profile: true
 
 {% include amoon.html %}
 
-<h3 id="colorfly">2. Colorfly</h3>
+<h3 id="color">2. Colorfly</h3>
 
 {% include acolorfly.html %}
 
