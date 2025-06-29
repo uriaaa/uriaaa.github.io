@@ -27,7 +27,7 @@ author_profile: true
   }
 
   .side-nav a:hover {
-    color: #000;
+    color: #212121;
     font-weight: bold;
   }
 
