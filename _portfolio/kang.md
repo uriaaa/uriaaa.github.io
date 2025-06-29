@@ -66,12 +66,10 @@ author_profile: true
   <strong>Career</strong>
   <a href="#dal">달의 기억</a>
   <a href="#color">Colorfly</a>
-
   <br><strong>Personal Work</strong>
   <a href="#cha">캐릭터</a>
   <a href="#sheet">캐릭터시트</a>
   <a href="#object">오브젝트</a>
-
   <br><strong>Extra Work</strong>
   <a href="#etc">기타</a>
 </div>
