@@ -71,6 +71,7 @@ author_profile: true
   <a href="/images/portfolio/%EC%8B%A0%EC%82%AC2.png" target="_blank">
   <img src="/images/portfolio/%EC%8B%A0%EC%82%AC2.png" alt="신사2.png" style="width: 45%; max-width: 400px; height:auto;">
   </a>
+  
   <a href="/images/portfolio/%EB%B6%88%ED%83%80%EB%8A%94-%ED%8F%90%EC%8B%A0%EC%82%AC.gif" target="_blank">
   <img src="/images/portfolio/%EB%B6%88%ED%83%80%EB%8A%94-%ED%8F%90%EC%8B%A0%EC%82%AC.gif" alt="불타는-폐신사.gif" style="width: 45%; max-width: 400px; height:auto;">
   </a>
