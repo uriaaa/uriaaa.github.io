@@ -84,8 +84,8 @@ author_profile: true
 </div>
 
   <div style="text-align: center; margin-top: 20px;">
-  <img src="/images/portfolio/%EA%B5%90%EC%8B%A4%EC%88%98%EC%A0%95.png" alt="교실수정.png" style="flex: 1; max-width: 48%; min-width: 300px; width: 100%; height: auto; display: block; cursor: zoom-in;"><br>
-  <img src="/images/portfolio/%EC%9C%A0%EC%9A%B0%EC%A7%80_%EC%A7%91ver1.png" alt="유우지 집ver1.png" style="flex: 1; max-width: 48%; min-width: 300px; width: 100%; height: auto; display: block; cursor: zoom-in;"><br>
+  <img src="/images/portfolio/%EA%B5%90%EC%8B%A4%EC%88%98%EC%A0%95.png" alt="교실수정.png" style="max-width: 100%; height: auto; margin-bottom: 10px;"><br>
+  <img src="/images/portfolio/%EC%9C%A0%EC%9A%B0%EC%A7%80_%EC%A7%91ver1.png" alt="유우지 집ver1.png" style="max-width: 100%; height: auto; margin-bottom: 10px;"><br>
 </div>
 
 <iframe width="560" height="315"
