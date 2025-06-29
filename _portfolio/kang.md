@@ -14,6 +14,7 @@ author_profile: true
 
   /* 마우스 올렸을 때 */
   a:hover {
+    text-decoration: underline;
     color: 	#7e57c2; /* 원하는 색으로 변경 */
   }
 </style>
