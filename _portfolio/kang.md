@@ -98,7 +98,10 @@ author_profile: true
 {% include acolorfly.html %}
 
 <h3 id="self">3. Personal Work</h3>
-{% include aself.html %}
+{% include aself1.html %}
+{% include aself2.html %}
+{% include aself3.html %}
+{% include aself4.html %}
 
 <!-- 모달 창 구조 -->
 <div id="imgModal" style="display: none; position: fixed; z-index: 9999; padding-top: 60px; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.9);">
