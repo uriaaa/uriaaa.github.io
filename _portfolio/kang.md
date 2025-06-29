@@ -75,14 +75,14 @@ author_profile: true
 
 <!-- 고정 네비게이터 HTML -->
 <div class="side-nav">
-  <strong>Career</strong>
+  <strong><a href="#ca">Career</a></strong>
   <a href="#dal">달의 기억</a>
   <a href="#color">Colorfly</a>
-  <br><strong>Personal Work</strong>
+  <br><strong><a href="#wo">Personal Work</a></strong>
   <a href="#cha">캐릭터</a>
   <a href="#sheet">캐릭터시트</a>
   <a href="#object">오브젝트</a>
-  <br><strong>Extra Work</strong>
+  <br><strong><a href="#etc">Extra Work</a></strong>
   <a href="#etc">기타</a>
 </div>
 
