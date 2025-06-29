@@ -60,12 +60,8 @@ author_profile: true
 
 
 <div style="text-align: center; margin-top: 20px;">
-  <a href="/images/portfolio/Sprite-0001.gif" target="_blank">
   <img src="/images/portfolio/Sprite-0001.gif" alt="Sprite" style="max-width: 100%; height: auto; margin-bottom: 10px;">
-  </a>
-  <a href="/images/portfolio/%EC%88%B23.png" target="_blank">
   <img src="/images/portfolio/%EC%88%B23.png" alt="숲3.png" style="max-width: 100%; height: auto; margin-bottom: 10px;">
-  </a>
 </div>
 
 <!-- 이미지 2개 -->
