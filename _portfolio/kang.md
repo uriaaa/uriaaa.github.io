@@ -98,6 +98,9 @@ author_profile: true
     </ul>
   </li>
 </ul>
+<div style="font-size:12px;">
+오른쪽 네비게이션 바를 누르시면 바로 이동합니다
+</div>
 
 
 <hr>
