@@ -10,10 +10,10 @@ author_profile: true
     position: fixed;
     top: 100px;
     right: 0;
-    width: 10px;
+    width: 15px;
     height: auto;
     background-color: rgba(255, 255, 255, 0.9);
-    border-left: 2px solid #ddd;
+    border-left: 5px solid #ddd;
     transition: width 0.3s ease;
     overflow: hidden;
     z-index: 9999;
