@@ -9,7 +9,7 @@ author_profile: true
 <style>
   .side-nav {
     position: fixed;
-    top: 150px;
+    top: 180px;
     right: 40px;
     width: 150px;
     background-color: #f2f2f2;
