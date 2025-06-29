@@ -8,9 +8,9 @@ author_profile: true
 <style>
   .side-nav {
     position: fixed;
-    top: 100px;
+    top: 80px;
     right: 0;
-    width: 15px;
+    width: 20px;
     height: auto;
     background-color: rgba(255, 255, 255, 0.9);
     border-left: 5px solid #ddd;
