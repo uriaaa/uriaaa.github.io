@@ -7,14 +7,14 @@ author_profile: true
 <style>
   /* 기본 링크 스타일 */
   a {
-    text-decoration: none;
+    text-decoration: none !important;
     color: #333; /* 기본 글자색 */
     transition: color 0.3s ease; /* 부드럽게 색 변환 */
   }
 
   /* 마우스 올렸을 때 */
   a:hover {
-    color: #555; /* 원하는 색으로 변경 */
+    color: 	#7e57c2; /* 원하는 색으로 변경 */
   }
 </style>
 
