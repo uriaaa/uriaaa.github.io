@@ -5,6 +5,42 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+<style>
+  .section-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .section-title h2, .section-title h3 {
+    margin: 0;
+  }
+
+  .anchor-link {
+    font-size: 14px;
+    text-decoration: none;
+    color: #888;
+    margin-left: 10px;
+    visibility: hidden;
+  }
+
+  .section-title:hover .anchor-link {
+    visibility: visible;
+  }
+</style>
+<div class="section-title" id="dal-memory">
+  <h2>달의 기억</h2>
+  <a href="#dal-memory" class="anchor-link">
+  <img src="/images/link-icon.svg" alt="link" style="width: 16px;">
+</a>
+</div>
+<div class="section-title" id="colorfly">
+  <h2>Colorfly</h2>
+  <a href="#dal-memory" class="anchor-link">
+  <img src="/images/link-icon.svg" alt="link" style="width: 16px;">
+</a>  
+</div>
+
 ----------------------------------------------
 <h2>INDEX</h2>
 <ul style="font-size: 16px; line-height: 1.8;">
