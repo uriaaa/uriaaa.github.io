@@ -22,6 +22,7 @@ author_profile: true
 
   .side-nav:hover {
     width: 180px; /* 커졌을 때 너비 */
+    height: auto;
     padding: 10px 15px;
     box-shadow: -2px 2px 8px rgba(0, 0, 0, 0.15);
   }
