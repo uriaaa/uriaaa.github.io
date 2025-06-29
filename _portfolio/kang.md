@@ -5,9 +5,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 <style>
-  /* 기본 링크 스타일 */
-  a {
-    text-decoration: none !important;
+  .index-links a {
+    text-decoration: none;
     color: #333; /* 기본 글자색 */
     transition: color 0.3s ease; /* 부드럽게 색 변환 */
   }
@@ -90,6 +89,7 @@ author_profile: true
 
 ----------------------------------------------
 <h2>INDEX</h2>
+<div class="index-links">
 <ul style="font-size: 16px; line-height: 1.8;">
   <li><strong><a href="#ca">Career</a></strong>
     <ul>
@@ -110,6 +110,8 @@ author_profile: true
     </ul>
   </li>
 </ul>
+</div>
+
 <div style="font-size:12px;">
 &emsp;&emsp; 오른쪽 네비게이션에서 해당 카테고리로 바로 이동할 수 있습니다
 </div>
