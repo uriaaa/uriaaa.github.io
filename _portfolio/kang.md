@@ -11,7 +11,7 @@ author_profile: true
     position: fixed;
     top: 180px;
     right: 40px;
-    width: 150px;
+    width: 120px;
     background-color: #f2f2f2;
     border-left: 2px solid #ddd;
     padding: 15px;
