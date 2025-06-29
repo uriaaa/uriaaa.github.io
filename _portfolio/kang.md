@@ -28,10 +28,19 @@ author_profile: true
   </li>
 </ul>
 
+<!-- 썸네일 이미지들 -->
+<div style="text-align: center; margin-top: 20px;">
+  <img src="/images/portfolio/신사2.png" alt="신사" style="max-width: 300px; margin: 10px;">
+  <img src="/images/portfolio/불타는-폐신사.gif" alt="불타는 신사" style="max-width: 300px; margin: 10px;">
+  <img src="/images/portfolio/저택외부4.png" alt="저택 외부" style="max-width: 300px; margin: 10px;">
+</div>
+
+<!-- 모달 구조 -->
 <div id="imgModal" style="display: none; position: fixed; z-index: 9999; padding-top: 60px; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.9);">
   <span id="modalClose" style="position: absolute; top: 20px; right: 35px; color: #fff; font-size: 40px; font-weight: bold; cursor: pointer;">&times;</span>
   <img id="modalImage" style="margin: auto; display: block; max-width: 80%; max-height: 80%;">
 </div>
+
 
 <hr>
 
