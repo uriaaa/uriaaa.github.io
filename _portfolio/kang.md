@@ -14,7 +14,7 @@ author_profile: true
 
   /* 마우스 올렸을 때 */
   a:hover {
-    color: #008cba; /* 원하는 색으로 변경 (예: 파란 계열) */
+    color: #555; /* 원하는 색으로 변경 */
   }
 </style>
 
