@@ -4,7 +4,6 @@
   <img id="modalImage" style="margin: 40px auto; display: block; max-width: 100%; max-height: 100%;">
 </div>
 
-<h3>1. 달의 기억</h3>
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <!-- 왼쪽 이미지 -->
     <img src="/images/portfolio/4109015e-63ba-4a6d-9fa1-f54743cf8128.png" alt="달의 기억" style="width: 200px; border-radius: 4px;">
