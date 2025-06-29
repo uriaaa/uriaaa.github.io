@@ -5,35 +5,57 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-<!-- 🔹 오른쪽 고정 목차 네비게이터 스타일 -->
 <style>
   .side-nav {
     position: fixed;
-    top: 180px;
-    right: 40px;
-    width: 120px;
-    background-color: #f2f2f2;
+    top: 100px;
+    right: 0;
+    width: 10px;
+    height: auto;
+    background-color: rgba(255, 255, 255, 0.9);
     border-left: 2px solid #ddd;
-    padding: 15px;
-    font-size: 13px;
-    z-index: 999;
+    transition: width 0.3s ease;
+    overflow: hidden;
+    z-index: 9999;
+    padding: 10px 0;
+  }
+
+  .side-nav:hover {
+    width: 180px; /* 커졌을 때 너비 */
+    padding: 10px 15px;
+    box-shadow: -2px 2px 8px rgba(0, 0, 0, 0.15);
   }
 
   .side-nav a {
     display: block;
-    margin-bottom: 8px;
-    color: #444;
+    color: #333;
     text-decoration: none;
+    margin-bottom: 8px;
+    font-size: 14px;
+    white-space: nowrap;
+    opacity: 0;
+    transition: opacity 0.2s ease 0.2s;
   }
 
-  .side-nav a:hover {
-    color: #212121;
+  .side-nav:hover a {
+    opacity: 1;
+  }
+
+  .side-nav strong {
+    display: block;
+    margin-top: 10px;
     font-weight: bold;
+    opacity: 0;
+    transition: opacity 0.2s ease 0.2s;
+  }
+
+  .side-nav:hover strong {
+    opacity: 1;
   }
 
   @media (max-width: 1000px) {
     .side-nav {
-      display: none; /* 모바일에서는 숨김 */
+      display: none;
     }
   }
 </style>
