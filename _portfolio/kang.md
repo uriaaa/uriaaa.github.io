@@ -28,17 +28,14 @@ author_profile: true
     visibility: visible;
   }
 </style>
+
 <div class="section-title" id="dal-memory">
   <h2>달의 기억</h2>
-  <a href="#dal-memory" class="anchor-link">
-  <img src="/images/link-icon.svg" alt="link" style="width: 16px;">
-</a>
+  <a href="#dal-memory" class="anchor-link">●</a>
 </div>
 <div class="section-title" id="colorfly">
   <h2>Colorfly</h2>
-  <a href="#dal-memory" class="anchor-link">
-  <img src="/images/link-icon.svg" alt="link" style="width: 16px;">
-</a>  
+  <a href="#dal-memory" class="anchor-link">●</a>  
 </div>
 
 ----------------------------------------------
