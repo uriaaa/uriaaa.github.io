@@ -77,22 +77,22 @@ author_profile: true
 ----------------------------------------------
 <h2>INDEX</h2>
 <ul style="font-size: 16px; line-height: 1.8;">
-  <li><strong>Career</strong>
+  <li><strong><a href="#ca">Career</a></strong>
     <ul>
-      <li>달의 기억</li>
-      <li>Colorfly</li>
+      <li><a href="#dal">달의 기억</a></li>
+      <li><a href="#color">Colorfly</a></li>
     </ul>
   </li>
-  <li><strong>Personal Work</strong>
+  <li><strong><a href="#wo">Personal Work</a></strong>
     <ul>
-      <li>캐릭터</li>
-      <li>캐릭터시트</li>
-      <li>오브젝트</li>
+      <li><a href="#cha">캐릭터</a></li>
+      <li><a href="#sheet">캐릭터시트</a></li>
+      <li><a href="#object">오브젝트</a></li>
     </ul>
   </li>
-  <li><strong>Extra Work</strong>
+  <li><strong><a href="#etc">Extra Work</a></strong>
     <ul>
-      <li>기타</li>
+      <li><a href="#etc">기타</a></li>
     </ul>
   </li>
 </ul>
@@ -104,7 +104,7 @@ author_profile: true
 <hr>
 
 <!-- Career Section -->      
-<h2>Career</h2>
+<h2 id="ca">Career</h2>
 
 <!-- 모달 구조 -->
 <div id="imgModal" style="display: none; position: fixed; z-index: 9999; padding-top: 80px; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.9);">
@@ -122,7 +122,7 @@ author_profile: true
 
 {% include acolorfly.html %}
 
-<h2>3. Personal Work</h2>
+<h2 id="wo">3. Personal Work</h2>
 
 <h3 id="cha">● &emsp;Character</h3>
 
@@ -136,7 +136,7 @@ author_profile: true
 
 {% include aself3.html %}
 
-<h2 id="etc">4. Extra</h2>
+<h2 id="etc">4. Extra Work</h2>
 
 {% include aself4.html %}
 
