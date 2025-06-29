@@ -35,7 +35,7 @@ author_profile: true
 <h2>Career</h2>
 
 <h3>1. 달의 기억</h3>
-{% include amoon.md %}
+{% include amoon.html %}
 
 <h3>2. Colorfly</h3>
-{% include acolorfly.md %}
+{% include acolorfly.html %}
