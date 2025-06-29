@@ -1,5 +1,5 @@
 <!-- 모달 구조 -->
-<div id="imgModal" style="display: none; position: fixed; z-index: 9999; padding-top: 90px; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.9);">
+<div id="imgModal" style="display: none; position: fixed; z-index: 9999; padding-top: 80px; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.9);">
   <span id="modalClose" style="position: absolute; top: 20px; right: 35px; color: #fff; font-size: 40px; font-weight: bold; cursor: pointer;">&times;</span>
   <img id="modalImage" style="margin: 40px auto; display: block; max-width: 100%; max-height: 100%;">
 </div>
