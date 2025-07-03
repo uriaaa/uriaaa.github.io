@@ -18,7 +18,6 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806</p><br>
 <h2>Education</h2>
  
 <p style="font-size: 16px;">2018.02 ~ 2023.02&emsp;&emsp;건국대학교 건축학부 전공</p><br>
-<br>
 
 <h2>Experience</h2>
   
@@ -32,7 +31,7 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806</p><br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Rheinmain University, 교환학생<br>  
 <br>
 2022.03 ~ 2024.04&emsp;&emsp;신한건축사사무소, 사원</p><br>  
-<br>
+
 
 <h2>Careers</h2>
 
@@ -43,7 +42,7 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806</p><br>
 2025.01 ~ 2025.09(예정)&emsp;&emsp;Colorfly, Atelier 팀 프로젝트 제작 (진행중)<br>
 <br>  
 2025.07 ~ 2025.07&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;캐릭터 애니메이션, 쿡앱스</p><br>
-<br>  
+
 
 <h2>Certificate</h2>
 
@@ -54,7 +53,7 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806</p><br>
 2024.09&emsp;&emsp;&emsp;TOEIC Speaking IH</font><br>
 <br>  
 2024.10&emsp;&emsp;&emsp;TOEIC 925</p><br>
-<br>  
+
 
 <h2>Skills</h2>
 
