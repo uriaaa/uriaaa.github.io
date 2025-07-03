@@ -26,15 +26,15 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806</p><br>
 
   
 <p style="font-size: 16px; font-weight:normal;">2018.04 ~ 2019.02&emsp;&emsp;건국대학교 건축대학 학생회, "청춘"<br>
-<font size="3">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;디자인 국원<br>  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;디자인 국원<br>  
 <br>
-<font size="3">2019.04 ~ 2019.07&emsp;&emsp;건국대학교 건축대학 학생회, "이음"<br>  
-<font size="3">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&nbsp;디자인 국장<br>  
+2019.04 ~ 2019.07&emsp;&emsp;건국대학교 건축대학 학생회, "이음"<br>  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&nbsp;디자인 국장<br>  
 <br>
-<font size="3">2019.09 ~ 2020.02&emsp;&emsp;비스바덴, 독일</font><br>  
-<font size="3">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Rheinmain University, 교환학생<br>  
+2019.09 ~ 2020.02&emsp;&emsp;비스바덴, 독일</font><br>  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Rheinmain University, 교환학생<br>  
 <br>
-<font size="3">2022.03 ~ 2024.04&emsp;&emsp;신한건축사사무소, 사원</p><br>  
+2022.03 ~ 2024.04&emsp;&emsp;신한건축사사무소, 사원</p><br>  
 <br>
 
 
