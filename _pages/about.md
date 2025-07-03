@@ -16,13 +16,11 @@ Email.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yuriak1209@gmail.com<br>
 Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806</p><br>
 
 <h2>Education</h2>
-
-  
+ 
 <p style="font-size: 16px;">2018.02 ~ 2023.02&emsp;&emsp;건국대학교 건축학부 전공</p><br>
 <br>
 
 <h2>Experience</h2>
-
   
 <p style="font-size: 16px; font-weight:normal;">2018.04 ~ 2019.02&emsp;&emsp;건국대학교 건축대학 학생회, "청춘"<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;디자인 국원<br>  
@@ -37,7 +35,6 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806</p><br>
 <br>
 
 <h2>Careers</h2>
-
 
 <p style="font-size: 16px; font-weight:normal;">2024.05 ~ 2025.08(예정)&emsp;&emsp;달의 기억, Mei 팀 프로젝트 제작 (진행중)<br>
 <br>
