@@ -48,9 +48,9 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806</p><br>
 
 <p style="font-size: 16px; font-weight:normal;">2020.08&emsp;&emsp;&emsp;2종 보통 운전면허<br>
 <br>  
-2021.08&emsp;&emsp;&emsp;실내건축기사</font><br>
+2021.08&emsp;&emsp;&emsp;실내건축기사<br>
 <br>  
-2024.09&emsp;&emsp;&emsp;TOEIC Speaking IH</font><br>
+2024.09&emsp;&emsp;&emsp;TOEIC Speaking IH<br>
 <br>  
 2024.10&emsp;&emsp;&emsp;TOEIC 925</p><br>
 
