@@ -10,7 +10,8 @@ author_profile: true
 
 
   
-<p style="font-size: 16px;">Name.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;강나경<br>  
+<p style="font-size: 16px;"><br>
+  Name.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;강나경<br>  
 Birth.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1999.12.09<br>  
 Email.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yuriak1209@gmail.com<br>  
 Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806</p><br>
