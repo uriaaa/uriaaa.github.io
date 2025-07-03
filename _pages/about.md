@@ -37,6 +37,15 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
 <font size="3">2022.03 ~ 2024.04&emsp;&emsp;신한건축사사무소, 사원<br>  
 <br>
 
+<h2>Careers</h2>
+
+<font size="3"><p style="font-weight:normal;">2024.05 ~ 2025.08(예정)&emsp;&emsp;달의 기억, Mei 팀 프로젝트 제작 (진행중)<br>
+<br>
+<font size="3"><p style="font-weight:normal;">2025.04 ~ 2025.04&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;"토끼굴" XR연극, 건국대학교 실감미디어센터 외주<br>
+<br>
+<font size="3"><p style="font-weight:normal;">2025.01 ~ 2025.09(예정)&emsp;&emsp;Colorfly, Atelier 팀 프로젝트 제작 (진행중)<br>
+<br>  
+
 
 <h2>Certificate</h2>
 <font size="3"><p style="font-weight:normal;">2020.08&emsp;&emsp;&emsp;2종 보통 운전면허<br>
@@ -57,13 +66,4 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806<br>
 * Illustrator&emsp;&emsp;&emsp;● ● ● ● <br>  
 <br>  
 * Indesign&emsp;&emsp;&emsp;&nbsp;&nbsp;● ● ● <br>  
-<br>  
-
-<h2>Careers</h2>
-
-<font size="3"><p style="font-weight:normal;">2024.05 ~ 2025.08(예정)&emsp;&emsp;달의 기억, Mei 팀 프로젝트 제작 (진행중)<br>
-<br>
-<font size="3"><p style="font-weight:normal;">2025.04 ~ 2025.04&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;"토끼굴" XR연극, 건국대학교 실감미디어센터 외주<br>
-<br>
-<font size="3"><p style="font-weight:normal;">2025.01 ~ 2025.09(예정)&emsp;&emsp;Colorfly, Atelier 팀 프로젝트 제작 (진행중)<br>
 <br>  
