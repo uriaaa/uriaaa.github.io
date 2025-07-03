@@ -64,11 +64,13 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806</p><br>
 
 
 <h2>Skills</h2>
-* Aseprite&emsp;&emsp;&emsp;&nbsp;&nbsp;● ● ● ● ● </font><br>
+
+<p style="font-size: 16px; font-weight:normal;">
+* Aseprite&emsp;&emsp;&emsp;&nbsp;&nbsp;● ● ● ● ● <br>
 <br>  
-* Photoshop&emsp;&emsp;&nbsp;● ● ● ● ● </font><br>
+* Photoshop&emsp;&emsp;&nbsp;● ● ● ● ● <br>
 <br>  
-* Illustrator&emsp;&emsp;&emsp;● ● ● ● </font><br>  
+* Illustrator&emsp;&emsp;&emsp;● ● ● ● <br>  
 <br>  
-* Indesign&emsp;&emsp;&emsp;&nbsp;&nbsp;● ● ● </font><br>  
+* Indesign&emsp;&emsp;&emsp;&nbsp;&nbsp;● ● ● </p><br>  
 <br>  
