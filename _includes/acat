@@ -22,5 +22,11 @@
   </div>
 </div>
 
-
+<!-- 이미지 2개 -->
+<div style="text-align: center;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin: 0 auto; max-width: 1000px;">
+    <img src="/images/portfolio/map7.png" alt="map7.png" style="flex: 1; max-width: 48%; min-width: 300px; width: 100%; height: auto; display: block; cursor: zoom-in;">
+    <img src="/images/portfolio/cat.png" alt="cat.png" style="flex: 1; max-width: 48%; min-width: 300px; width: 100%; height: auto; display: block; cursor: zoom-in;">
+  </div>
+</div>
 
