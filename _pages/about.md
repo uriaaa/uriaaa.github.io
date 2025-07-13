@@ -28,7 +28,7 @@ Contact.&nbsp;&nbsp;&nbsp;&nbsp;010 3306 6806</p><br>
 2019.04 ~ 2019.07&emsp;&emsp;건국대학교 건축대학 학생회, "이음"<br>  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&nbsp;디자인 국장<br>  
 <br>
-2019.09 ~ 2020.02&emsp;&emsp;비스바덴, 독일</font><br>  
+2019.09 ~ 2020.02&emsp;&emsp;비스바덴, 독일<br>  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Rheinmain University, 교환학생<br>  
 <br>
 2022.03 ~ 2024.04&emsp;&emsp;신한건축사사무소, 사원</p><br>  
