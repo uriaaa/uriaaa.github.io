@@ -1,11 +1,26 @@
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <!-- 왼쪽 이미지 -->
-    <img src="/images/portfolio/logo2300.png" alt="logo2300.png" style="width: 200px; border-radius: 4px;">
-  <!-- 오른쪽 설명 -->
-  <div style="font-size: 14px; line-height: 1.6;">
-    <p><strong>개발:</strong> Unity</p>
-    <p><strong>분류:</strong> 퍼즐 게임</p>
-    <p><strong>제작 기간:</strong> 24.01 ~ 25.12 (예정)</p>
-    <p><strong>참여 분야:</strong> 배경 및 오브젝트, UI, 애니메이션</p>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; margin-bottom: 40px;">
+  
+  <!-- 왼쪽 이미지 (포스터) -->
+  <div style="flex: 1 1 300px; max-width: 400px;">
+    <img src="/images/portfolio/rabbit.png" alt="rabbit.png" style="width: 100%; height: auto; border-radius: 6px;">
+  </div>
+
+  <!-- 오른쪽 설명 + 이미지 -->
+  <div style="flex: 2 1 400px; display: flex; flex-direction: column; justify-content: space-between;">
+    
+    <!-- 설명 텍스트 -->
+    <div style="font-size: 14px; line-height: 1.8; margin-bottom: 20px;">
+      <p><strong>분류:</strong> 외주 – 건국대학교 실감미디어센터</p>
+      <p><strong>제작 기간:</strong> 25.04</p>
+      <p><strong>참여 분야:</strong> 배경 및 에셋, XR 연극 내 삽입되는 게임 디자인</p>
+    </div>
+    
+    <!-- 하단 이미지 (부스 사진 등) -->
+    <div>
+      <img src="/images/portfolio/rabbit2.png" alt="rabbit2.png" style="width: 100%; height: auto; border-radius: 6px;">
+    </div>
   </div>
 </div>
+
+
+
