@@ -89,22 +89,23 @@ author_profile: true
 ----------------------------------------------
 <h2>INDEX</h2>
 <div class="index-links">
-<ul style="font-size: 16px; line-height: 1.8;">
-  <li><strong><a href="#ca">Career</a></strong>
-    <ul>
-      <li><a href="#dal">달의 기억</a></li>
-      <li><a href="#color">Colorfly</a></li>
-      <li><a href="#cat">토끼굴</a></li>
-    </ul>
-  </li>
-  <li><strong><a href="#wo">Personal Work</a></strong>
-    <ul>
-      <li><a href="#cha">캐릭터</a></li>
-      <li><a href="#sheet">캐릭터시트</a></li>
-      <li><a href="#object">오브젝트</a></li>
-      <li><a href="#etc">배경</a></li>
-    </ul>
-  </li>
+  <ul style="font-size: 16px; line-height: 1.8;">
+    <li><strong><a href="#ca">Career</a></strong>
+      <ul>
+        <li><a href="#dal">달의 기억</a></li>
+        <li><a href="#color">Colorfly</a></li>
+        <li><a href="#cat">토끼굴</a></li>
+      </ul>
+    </li>
+    <li><strong><a href="#wo">Personal Work</a></strong>
+      <ul>
+        <li><a href="#cha">캐릭터</a></li>
+        <li><a href="#sheet">캐릭터시트</a></li>
+        <li><a href="#object">오브젝트</a></li>
+        <li><a href="#etc">배경</a></li>
+      </ul>
+    </li>
+  </ul>
 </div>
 
 <div style="font-size:12px;">
