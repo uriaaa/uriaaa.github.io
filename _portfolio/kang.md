@@ -82,7 +82,6 @@ author_profile: true
   <a href="#cha">캐릭터</a>
   <a href="#sheet">캐릭터시트</a>
   <a href="#object">오브젝트</a>
-  <br><strong><a href="#etc">Background</a></strong>
   <a href="#etc">Background</a>
 </div>
 
