@@ -100,14 +100,9 @@ author_profile: true
       <li><a href="#cha">캐릭터</a></li>
       <li><a href="#sheet">캐릭터시트</a></li>
       <li><a href="#object">오브젝트</a></li>
+      <li><a href="#etc">Background</a>
     </ul>
   </li>
-  <li><strong><a href="#etc">Background</a></strong>
-    <ul>
-      <li><a href="#etc">기타</a></li>
-    </ul>
-  </li>
-</ul>
 </div>
 
 <div style="font-size:12px;">
