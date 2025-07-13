@@ -82,7 +82,7 @@ author_profile: true
   <a href="#cha">캐릭터</a>
   <a href="#sheet">캐릭터시트</a>
   <a href="#object">오브젝트</a>
-  <br><strong><a href="#etc">Extra Work</a></strong>
+  <br><strong><a href="#etc">Background</a></strong>
   <a href="#etc">기타</a>
 </div>
 
@@ -103,7 +103,7 @@ author_profile: true
       <li><a href="#object">오브젝트</a></li>
     </ul>
   </li>
-  <li><strong><a href="#etc">Extra Work</a></strong>
+  <li><strong><a href="#etc">Background</a></strong>
     <ul>
       <li><a href="#etc">기타</a></li>
     </ul>
@@ -151,7 +151,7 @@ author_profile: true
 
 {% include aself3.html %}
 
-<h2 id="etc">4. Extra Work</h2>
+<h2 id="etc">4. Background</h2>
 
 {% include aself4.html %}
 
