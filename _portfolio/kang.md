@@ -101,8 +101,7 @@ author_profile: true
       <li><a href="#sheet">캐릭터시트</a></li>
       <li><a href="#object">오브젝트</a></li>
       <li><a href="#etc">배경</a></li>
-    </ul>
-  </li>
+    </ul></li>
 </div>
 
 <div style="font-size:12px;">
