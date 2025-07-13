@@ -30,19 +30,19 @@
 </div>
 
 <script>
-  function syncImageHeight() {
+  function matchHeight() {
     const leftImg = document.getElementById('left-img');
     const rightImg = document.getElementById('right-img');
 
-    if (window.innerWidth > 700) { // 가로 정렬일 때만 높이 동기화
+    if (window.innerWidth >= 700) { // 가로 정렬일 때만 적용
       rightImg.style.height = leftImg.clientHeight + "px";
     } else {
-      rightImg.style.height = "auto"; // 모바일에선 자동 높이
+      rightImg.style.height = 'auto'; // 세로로 바뀔 때는 기본으로
     }
   }
 
-  window.addEventListener('load', syncImageHeight);
-  window.addEventListener('resize', syncImageHeight);
+  window.addEventListener('load', matchHeight);
+  window.addEventListener('resize', matchHeight); // 창 크기 변경 시에도 반응
 </script>
 
 <iframe width="560" height="315"
