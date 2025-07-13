@@ -82,7 +82,7 @@ author_profile: true
   <a href="#cha">캐릭터</a>
   <a href="#sheet">캐릭터시트</a>
   <a href="#object">오브젝트</a>
-  <a href="#etc">Background</a>
+  <a href="#etc">배경</a>
 </div>
 
 ----------------------------------------------
@@ -100,7 +100,7 @@ author_profile: true
       <li><a href="#cha">캐릭터</a></li>
       <li><a href="#sheet">캐릭터시트</a></li>
       <li><a href="#object">오브젝트</a></li>
-      <li><a href="#etc">Background</a>
+      <li><a href="#etc">배경</a></li>
     </ul>
   </li>
 </div>
