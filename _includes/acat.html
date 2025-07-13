@@ -22,13 +22,28 @@
   </div>
 </div>
 
-<!-- 이미지 2개 -->
-<div style="text-align: center;">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin: 0 auto; max-width: 1000px;">
-    <img src="/images/portfolio/map7.png" alt="map7.png" style="flex: 1; max-width: 48%; min-width: 300px; width: 100%; height: auto; display: block; cursor: zoom-in;">
-    <img src="/images/portfolio/cat.png" alt="cat.png" style="flex: 1; max-width: 48%; min-width: 300px; width: 100%; height: 300px; display: block; cursor: zoom-in;">
+<div id="img-wrapper" style="text-align: center;">
+  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin: 0 auto; max-width: 1000px;">
+    <img id="left-img" src="/images/portfolio/map7.png" alt="map7.png" style="flex: 1; max-width: 48%; min-width: 300px; width: 100%; height: auto; display: block; cursor: zoom-in;">
+    <img id="right-img" src="/images/portfolio/cat.png" alt="cat.png" style="flex: 1; max-width: 48%; min-width: 300px; width: 100%; height: auto; display: block; object-fit: cover; cursor: zoom-in;">
   </div>
 </div>
+
+<script>
+  function syncImageHeight() {
+    const leftImg = document.getElementById('left-img');
+    const rightImg = document.getElementById('right-img');
+
+    if (window.innerWidth > 700) { // 가로 정렬일 때만 높이 동기화
+      rightImg.style.height = leftImg.clientHeight + "px";
+    } else {
+      rightImg.style.height = "auto"; // 모바일에선 자동 높이
+    }
+  }
+
+  window.addEventListener('load', syncImageHeight);
+  window.addEventListener('resize', syncImageHeight);
+</script>
 
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/JoGQOkOvdT0"
